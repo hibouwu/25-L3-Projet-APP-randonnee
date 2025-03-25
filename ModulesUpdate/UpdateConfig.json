@@ -1,0 +1,28 @@
+{
+    "modules": [
+       {
+        "id": "your_module_id",
+        "name": "您的模块名称",
+        "packageName": "com.your.module.package",
+        "activity": "com.your.module.MainActivity",
+        "imageUrl": "module_icon.png",
+        "version": "1.0.0",
+        "assetPackName": "your_module_assets.zip",
+        "apkUrl": "your_module.apk",
+        "description": "模块描述",
+        "isInstalled": false
+       },
+       {
+        "id": "your_module_id2",
+        "name": "您的模块名称2",
+        "packageName": "com.your.module.package2",
+        "activity": "com.your.module.MainActivity",
+        "imageUrl": "module_icon.png",
+        "version": "1.0.0",
+        "assetPackName": "your_module_assets.zip",
+        "apkUrl": "your_module.apk",
+        "description": "模块描述",
+        "isInstalled": false
+       }
+    ]
+}
