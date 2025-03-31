@@ -1,0 +1,11 @@
+{
+    "id": "reconnaissanceArbres",
+    "name": "Identification d'arbres",
+    "version": "1.0.0",
+    "description": "Module permettant d'identifier différentes espèces d'arbres",
+    "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceArbres",
+    "activity": "descartes.info.l3m1.eyetrek.reconnaissanceArbres.MainActivity",
+    "apkUrl": "https://github.com/hibouwu/25-L3-Projet-APP-randonnee/releases/download/v1.0/reconnaissanceArbres_module.apk",
+    "assetsUrl": "https://github.com/hibouwu/25-L3-Projet-APP-randonnee/releases/download/v1.0/reconnaissanceArbres_assets.zip",
+    "imageUrl": "https://github.com/hibouwu/25-L3-Projet-APP-randonnee/releases/download/v1.0/reconnaissanceArbres_icon.png"
+}
