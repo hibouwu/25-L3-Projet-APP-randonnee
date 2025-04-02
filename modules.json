@@ -13,7 +13,7 @@
     },
     {
       "id": "reconnaissanceArbres",
-      "name": "Identification d'arbres",
+      "name": "Arbres proches",
       "version": "1.0.0",
       "description": "Module permettant d'identifier différentes espèces d'arbres",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceArbres",
@@ -24,7 +24,7 @@
     },
     {
       "id": "reconnaissanceChampignons",
-      "name": "Reconnaissance de champignons",
+      "name": "Analyse de champignons",
       "version": "1.0.0",
       "description": "Module permettant d'identifier différentes espèces de champignons",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceChampignons",
@@ -35,7 +35,7 @@
     },
     {
       "id": "reconnaissanceConstellations",
-      "name": "Reconnaissance de constellations",
+      "name": "Analyse de constellations",
       "version": "1.0.0",
       "description": "Module permettant d'identifier les constellations dans le ciel nocturne",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceConstellations",
@@ -46,7 +46,7 @@
     },
     {
       "id": "reconnaissanceEmpreintes",
-      "name": "Identification d'empreintes animales",
+      "name": "Analyse d'empreintes",
       "version": "1.0.0",
       "description": "Module permettant d'identifier différentes empreintes d'animaux",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceEmpreintes",
@@ -57,7 +57,7 @@
     },
     {
       "id": "reconnaissanceFeuilles",
-      "name": "Identification de feuilles",
+      "name": "Analyse de feuilles",
       "version": "1.0.0",
       "description": "Module permettant d'identifier différentes espèces de feuilles d'arbres",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceFeuilles",
