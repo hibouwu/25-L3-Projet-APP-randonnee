@@ -10,6 +10,8 @@
       "apkUrl": "reconnaissanceChantsOiseaux_module.apk",
       "assetsUrl": "reconnaissanceChantsOiseaux_assets.zip",
       "imageUrl": "reconnaissanceChantsOiseaux_icon.png"
+      "InstallationStatus": "null"
+      
     },
     {
       "id": "reconnaissanceArbres",
@@ -21,6 +23,7 @@
       "apkUrl": "reconnaissanceArbres_module.apk",
       "assetsUrl": "reconnaissanceArbres_assets.zip",
       "imageUrl": "reconnaissanceArbres_icon.png"
+      "InstallationStatus": "null"
     },
     {
       "id": "reconnaissanceChampignons",
@@ -32,6 +35,7 @@
       "apkUrl": "reconnaissanceChampignons_module.apk",
       "assetsUrl": "reconnaissanceChampignons_assets.zip",
       "imageUrl": "reconnaissanceChampignons_icon.png"
+      "InstallationStatus": "null"
     },
     {
       "id": "reconnaissanceConstellations",
@@ -43,6 +47,7 @@
       "apkUrl": "reconnaissanceConstellations_module.apk",
       "assetsUrl": "reconnaissanceConstellations_assets.zip",
       "imageUrl": "reconnaissanceConstellations_icon.png"
+      "InstallationStatus": "null"
     },
     {
       "id": "reconnaissanceEmpreintes",
@@ -54,6 +59,7 @@
       "apkUrl": "reconnaissanceEmpreintes_module.apk",
       "assetsUrl": "reconnaissanceEmpreintes_assets.zip",
       "imageUrl": "reconnaissanceEmpreintes_icon.png"
+      "InstallationStatus": "null"
     },
     {
       "id": "reconnaissanceFeuilles",
@@ -65,6 +71,7 @@
       "apkUrl": "reconnaissanceFeuilles_module.apk",
       "assetsUrl": "reconnaissanceFeuilles_assets.zip",
       "imageUrl": "reconnaissanceFeuilles_icon.png"
+      "InstallationStatus": "null"
     }
   ]
 }
