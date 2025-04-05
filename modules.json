@@ -48,7 +48,7 @@
     {
       "id": "reconnaissanceEmpreintes",
       "name": "Analyse d'empreintes",
-      "version": "1.0.0",
+      "version": "0.0.0",
       "description": "Module permettant d'identifier différentes empreintes d'animaux",
       "packageName": "descartes.info.l3m1.eyetrek.reconnaissanceEmpreintes",
       "activity": "descartes.info.l3m1.eyetrek.reconnaissanceEmpreintes.MainActivity",
